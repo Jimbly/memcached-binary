@@ -21,6 +21,6 @@ memcached_binary.get('key', null, function(err, res) {
 });
 ```
 
-[Auto-generated API docs](https://yahoo.github.io/memcached-binary/docs/classes/MemcachedBinaryClient.html)
+[Auto-generated API docs](https://jimbly.github.io/memcached-binary/docs/classes/MemcachedBinaryClient.html)
 
 Code licensed under the New BSD license. See LICENSE file for terms.
